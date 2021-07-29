@@ -1,0 +1,38 @@
+head{
+
+}
+
+body{
+
+    background-image: url(img/back.jpg);
+}
+
+ul{
+
+    list-style: none;
+    padding: 100px 460px 100px 540px;
+    
+    
+}
+
+li{
+    display: inline;
+    padding-right: 2cm;
+    padding-left: 7px;
+    
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: px;
+}
+
+p{
+    color: lightsteelblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+}
+
